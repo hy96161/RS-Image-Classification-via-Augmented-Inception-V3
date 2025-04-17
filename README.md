@@ -12,7 +12,7 @@ This project focuses on classifying remote sensing images by leveraging data aug
 
 The project uses the **UCMerced Land Use Dataset**, which contains 2,100 aerial images (256x256 pixels) from 21 land use categories.
 
-### 🔽 Download Instructions (Google Colab)
+🔽 Download Instructions (Google Colab)
 
 Use the following commands in a Colab notebook to download and extract the dataset:
 
